@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2024 00:45:31 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kubernetes-0</title>
+      <link>http://localhost:1313/posts/kubernetes-0/</link>
+      <pubDate>Wed, 10 Apr 2024 00:45:31 -0700</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes-0/</guid>
+      <description>There are a LOT of kubernetes tutorials but the point of this blog is to break it down on the basic level on the why someone would use it. Also, this is from the perspective of a noob, so the hypotheticals in this article about the before kubernetes might be pretty stupid, but as someone who entered tech after it was overtaken by kubernetes, this is what the world before kubernetes feels like to me.</description>
+    </item>
+  </channel>
+</rss>

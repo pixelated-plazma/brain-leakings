@@ -1,0 +1,4 @@
+baseURL = 'https://ani1311.github.io/brainLeakings/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'holy'
