@@ -1,4 +1,4 @@
-baseURL = 'https://pixelatedplazma.github.io/brainLeakings/'
+baseURL = 'https://pixelated-plazma.github.io/brain-leakings/'
 languageCode = 'en-us'
-title = 'brainLeakings'
+title = 'brain-leakings'
 theme = 'holy'

@@ -1,6 +1,6 @@
 # Variables
-IMAGE_NAME := brainleakings
-CONTAINER_NAME := brainleakings-container
+IMAGE_NAME := brain-leakings
+CONTAINER_NAME := brain-leakings-container
 TAG := latest
 PORT := 1313
 
