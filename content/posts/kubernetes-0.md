@@ -8,7 +8,7 @@ There are a LOT of kubernetes tutorials but the point of this blog is to break i
 
 ## Where it started?
 
-Let's start with, say you a service and a bunch of computers. Your service is pretty cool, and one computer is not enough to serve it, so you decide to use 7 of those computers you have to serve it. How you decide to do that is you set those computer's on your local network, install docker(Read about docker if you don't know what it is, the intuition is pretty simple on why) and run the docker image of your service on all of them. On one of them you decide to run a [reverse-proxy](https://youtu.be/SqqrOspasag?si=G79xzA4PKiTskth5) and this reverse-proxy then distributes a request to the other computers. Sounds good... I guess? But I can think of a few problems with this:
+Let's start with, say you have a service and a bunch of computers. Your service is pretty cool, and one computer is not enough to serve it, so you decide to use 7 of those computers you have to serve it. How you decide to do that is you set those computer's on your local network, install docker(Read about docker if you don't know what it is, the intuition is pretty simple on why) and run the docker image of your service on all of them. On one of them you decide to run a [reverse-proxy](https://youtu.be/SqqrOspasag?si=G79xzA4PKiTskth5) and this reverse-proxy then distributes a request to the other computers. Sounds good... I guess? But I can think of a few problems with this:
 
 * How do you actually run the docker image on all these computers? Do you always manually get a terminal on them and docker run it? You probably would write a script that can SSH into each of them and do a docker run.
 

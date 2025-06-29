@@ -4,7 +4,7 @@ date = 2024-11-22T11:00:48-08:00
 draft = false
 +++
 
-This blog is mostly to deepen my understanding of TLS and mTLS. A broad overview of why TLS is easily googleable but to give my understanding of it, two things need to talk to each other. If you talk unencrypted on the internet, things evesdrop, as well as can modify the conversation. TLS adds a way to stop that.
+This blog is mostly to deepen my understanding of TLS and mTLS. A broad overview of why TLS is easily Googlable, but to give my understanding of it, two things need to talk to each other. If you talk unencrypted on the internet, things evesdrop, as well as can modify the conversation. TLS adds a way to stop that.
 
 ## How it works
 
